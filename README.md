@@ -4,15 +4,15 @@ This work is a preliminary data analysis task done on a survey data set done on 
 
 The report is produced using *Rstudio* as an HTML file named main.html, however, the R Markdown file and all appendix files are attached to knit the original R file.
 
-a. Reading the Seven Summits ice cream data
-b. Reducing to essential variables needed for analyses
-c. Treating missing values
-  i. Using the ‘mice’ package for imputing missing values
-  ii. Using the ‘sjmisc’ package to merge the 5 datasets into one.
-  iii. Comparing the statistics of the original variables against the imputed variables
-d. Saving the imputed datasets
-e. Recombining the data
-f. Renaming the screening, brand assessment, attitude and demographic variables
-g. Recoding the variables
-h. Saving the data
-i. Conclusion
+1. Reading the Seven Summits ice cream data
+2. Reducing to essential variables needed for analyses
+3. Treating missing values
+  + Using the ‘mice’ package for imputing missing values
+  + Using the ‘sjmisc’ package to merge the 5 datasets into one.
+  + Comparing the statistics of the original variables against the imputed variables
+4. Saving the imputed datasets
+5. Recombining the data
+6. Renaming the screening, brand assessment, attitude and demographic variables
+7. Recoding the variables
+8. Saving the data
+9. Conclusion
